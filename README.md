@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Prajwal 👋</h1>
+<h1 align="center">Hola, I'm Prajwal 👋</h1>
 <p align="center">
   <em>Engineering student | Aspiring Software Dev | GATE CSE 2026 warrior ⚔️ | PHP nostalgia architect | CS researcher-in-progress 🤓</em>
 </p>
