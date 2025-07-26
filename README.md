@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:   C, C++, Python, Java, PHP, JavaScript
+Languages:   C, C++, Python, Java, PHP, JavaScript, SQL
 Tools/DB:    MySQL, Git, VS Code, XAMPP, LaTeX, Excel
 CS Skills:   DSA, OOP, DBMS, OS, CN, ToC, NLP, ML
 Extras:      HTML/CSS, Bootstrap, Tailwind, Figma (UI/UX basics)
