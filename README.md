@@ -1,6 +1,6 @@
 ## Hi, I'm Prajwal 👋
 
-🧠Computer Science Student at JIT
+🧠Computer Science Student at JIT<br>
 👨‍💻 Engineering student by day, debugging wizard by night ✨<br>
 🚀 Dreaming of building cool tech that actually makes life easier 🤝<br>
 🧠 Always down to learn — from AI to algorithms to accidental bugs 🐞<br>
